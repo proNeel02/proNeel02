@@ -1,5 +1,5 @@
 
-<p align="left"> <img src="https://miro.medium.com/v2/resize:fit:1400/0*FGD6BUzzZs1VJLuY.gif" alt="proneel02" /> </p>
+<p align="center"> <img src="https://miro.medium.com/v2/resize:fit:1400/0*FGD6BUzzZs1VJLuY.gif" alt="proneel02" /> </p>
 <h1 align="center">Hi 👋, I'm Prashant Dabe</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
